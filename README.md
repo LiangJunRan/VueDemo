@@ -1,6 +1,6 @@
 # vue_demo3
 
-> A Vue.js project
+> 一个vue练习demo集合
 
 ## Build Setup
 
